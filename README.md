@@ -51,3 +51,9 @@ function createOrder() {
 
 const eventSubscribers = subscribers['order-created']
 ```
+
+## Rodar o Exemplo
+
+```
+npx tsx src/infra/index.ts
+```
